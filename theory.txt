@@ -1,5 +1,7 @@
 Get & Post Requests
-
 -> GET: Used to get some response. Data sent in query strings(limited, string data & visible data in URL)
-
 -> POST: Used to post something (for create/write/update). Data sent via request body(any type of data).
+
+Handling Post Requests :-
+1. SetUp post request route to get some response.
+2. Parse Post request data. 
