@@ -5,3 +5,20 @@ Get & Post Requests
 Handling Post Requests :-
 1. SetUp post request route to get some response.
 2. Parse Post request data. 
+
+Object Oriented Programming 
+To Structure our code : 
+1. Prototypes
+2. New Operator
+3. Constructors
+4. Classes
+5. keywords(extends, super)
+
+Object Prototypes 
+-> Prototypes are the mechanism by which JavaScript Objects inherit features from one another. It is like a single template object that all objects inherit methods and properties from, without having their own copy. 
+
+arr._proto_(reference)
+Array.Prototype(actual object)
+String.Prototype 
+
+Every Object in JavaScript has a built-in Property, which is called its prototype. The prototype is itself an object, so the prototype will have its own Prototype, making what's called a prototype chain. The chain ends when we reach a prototype that has null for its own prototype. 
